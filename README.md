@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis
 
 ## Project Overview
-This project uses MySQL to perform exploratory data analysis, identify key insights, and answer relevant business questions. The analysis involves data cleaning, aggregation, filtering, and SQL queries to generate meaningful insights that support data-driven decision-making.
+This project uses MySQL to perform exploratory data analysis, identify key insights, and answer relevant business questions. The analysis involves data aggregation, filtering, and SQL queries to generate meaningful insights that support data-driven decision-making.
 
 ## Business Question
 - Find the total number of customers by countries
